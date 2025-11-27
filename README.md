@@ -8,3 +8,5 @@ Features
 - Centered calculator layout inside a styled container
 - Light gradient background and subtle shadow for depth 
 - Fully implemented using pure JavaScript (no external libraries)
+
+https://andres6294.github.io/Simple-Web-Calculator-HTML-CSS-JavaScript/
